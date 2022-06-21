@@ -96,7 +96,9 @@
     color: #CCC; }
     .mfp-preloader a:hover {
       color: #FFF; }
-
+a{
+  text-decoration: none;
+}
 .mfp-s-ready .mfp-preloader {
   display: none; }
 
